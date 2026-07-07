@@ -1,9 +1,20 @@
 # Blare Alarm Clock
-An alarm clock with the theme of a "Big Red Button".
+
+An alarm clock that I designed with the theme of a "Big Red Button" in mind.
 
 ![ALL PARTS](<Images/All Parts Case.png>)
 
 You can follow my progress by looking in the Journal folder.
+
+**Features**
+
+* A big red button
+* 3 buttons: the big red button shuts off the alarm, and the two on the side are used to navigate different functions
+* 2.25in TFT Screen
+* Utilises a 1x Lolin C3 Mini ESP 32 Devboard
+* Shows the time as a normal clock should
+* Easy to set up an alarm using the side buttons
+* Has a 3.3V piezo buzzer that buzzes when the alarm goes off until the big red button is pressed
 
 **Wiring**
 
