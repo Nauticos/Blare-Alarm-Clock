@@ -28,7 +28,11 @@ I designed all my parts in Fusion.
 
 ![JUST CASE](<Images/Just Case.png>)
 
-This is the case I designed, with none of the additional components.
+This is the casing I designed.
+
+![JUST BACKPLATE](<ImagesJust Backplate.png>)
+
+This is the backplate I designed to fit on the back of the casing.
 
 ![Keycap](Images/Keycap.png)
 
