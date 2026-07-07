@@ -30,7 +30,7 @@ I designed all my parts in Fusion.
 
 This is the casing I designed.
 
-![JUST BACKPLATE](<ImagesJust Backplate.png>)
+![JUST BACKPLATE](<Images/Just Backplate.png>)
 
 This is the backplate I designed to fit on the back of the casing.
 
