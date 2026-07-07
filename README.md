@@ -30,7 +30,7 @@ I designed all my parts in Fusion.
 
 This is the case I designed, with none of the additional components.
 
-![Keycap](Keycap.png)
+![Keycap](Images/Keycap.png)
 
 This is the keycap I designed, intended to go on the center top switch to shut off the alarm (big red button). I used a model from GrabCAD as a template and built off of it.
 
