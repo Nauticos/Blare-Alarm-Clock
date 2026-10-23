@@ -21,4 +21,4 @@ I spent around an hour getting the alarm to work the way I intended. At first, I
 
 This was a fun experience, and I managed to get my alarm clock to work as intended (although some of the components were leaking out of the back since they wouldn't fit in the case). I recorded a video of it working and sent it to BLARE. This was a fun experience!
 
-![Picture](<Images/Blare Clock Picture.png>)
+![Picture](</Images/Blare Clock Picture.png>)
